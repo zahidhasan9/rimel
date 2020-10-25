@@ -1,3 +1,14 @@
-.myblue{
-    color:rebeccapurple;
-}
+body {
+    background-color: rgb(16, 101, 112);
+  }
+  h1 {font-family: Verdana;
+    font-size: 40 px;
+    color: blue;
+  }
+  p {font-family: cursive;
+    font-size: 40 px;
+    color: red;
+    border: 2x solid powderblue;
+    padding: 30px;
+
+  }
