@@ -12,3 +12,12 @@ body {
     padding: 31px;
 
   }
+  .p {
+    font-size: 20px;
+    font-family: Georgia;
+    font-style: italic;
+    color: orchid;
+    border: 2x solid powderblue;
+
+
+     }
