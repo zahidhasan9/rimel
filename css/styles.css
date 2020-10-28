@@ -21,3 +21,20 @@ body {
 
 
      }
+
+      #mytable {
+      font-family: arial, sans-serif;
+      border-style: solid;
+      width: 100%;
+    }
+    
+    td, th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+      color: purple;
+    }
+    
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
